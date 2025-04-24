@@ -1,6 +1,6 @@
 # Pizzahut Sales Aanalysis
-In this project, I conducted a comprehensive analysis of pizza sales data using SQL to uncover key business insights. The primary goal was to understand overall revenue trends, identify customer preferences, and evaluate sales performance across different dimensions.
- ### Tools Used
+In this project, I conducted a comprehensive analysis of pizza sales data using SQL to uncover key business insights. The primary goal was to understand overall revenue trends, identify customer preferences, and evaluate sales performance across different dimensions. <br>
+ ### Tool Used
  MySql
  ### Process
  1. Cleaned the datasets
@@ -24,12 +24,12 @@ Top 3 pizza types by revenue. <br>
 Revenue contribution percentage by pizza type. <br>
 Cumulative revenue over time. <br>
 Top 3 revenue-generating pizza types per category. <br>
- ### Datasets <br>
+### Datasets <br>
  <a href="https://github.com/Bhumika-sharma12/task3/blob/main/order_details.csv"> Order_details </a> <br>
  <a href="https://github.com/Bhumika-sharma12/task3/blob/main/orders.csv"> Order </a> <br>
  <a href="https://github.com/Bhumika-sharma12/task3/blob/main/pizza_types.csv"> Pizza_Types </a> <br>
  <a href="https://github.com/Bhumika-sharma12/task3/blob/main/pizzas.csv"> Pizzas </a> <br>
- ### Questions <br>
+### Questions <br>
  <a href="https://github.com/Bhumika-sharma12/task3/blob/main/Questions.txt"> Questions </a>
 ### Presentation Link <br>
 <a href="https://github.com/Bhumika-sharma12/task3/blob/main/pizzahut_sales_analysis_presentation.pdf"> Presentation/Insights </a>
